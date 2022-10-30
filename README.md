@@ -5,4 +5,4 @@
 
 Estudo de CSS - Construção de Cards flutuantes com animação no mouse hover.
 
-[Conferir Website](https://lz-dvlp.github.io/Floating-Cards/)
+[Conferir Website](https://lz-dvlp.github.io/Floating-Cards/index)
